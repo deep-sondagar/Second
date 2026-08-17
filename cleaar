@@ -1,0 +1,20 @@
+[1mdiff --git a/hello.html b/hello.html[m
+[1mindex 12bd5b5..83c9610 100644[m
+[1m--- a/hello.html[m
+[1m+++ b/hello.html[m
+[36m@@ -7,6 +7,7 @@[m
+     <style>[m
+         *{[m
+             color: brown;[m
+[32m+[m[32m            font-family: 'Courier New', Courier, monospace;[m
+         }[m
+     </style>[m
+ </head>[m
+[36m@@ -15,4 +16,4 @@[m
+     <p>hello</p>[m
+     <p>hello</p>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>cd[m
+\ No newline at end of file[m
